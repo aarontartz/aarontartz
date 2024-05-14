@@ -1,4 +1,9 @@
-### I'm Aaron.
+I'm Aaron.
+* I'm currently working on a couple FPGA/SoC (Cora Z7-07s) projects with Verilog and C, and am soon to start my senior design project.
+* I have the most experience with Python, C/C++, and Verilog.
+* I have a fair amount of experience with MATLAB and Assembly.
+* I have only been briefly exposed to Java, Javascript, HTML, and CSS.
+* Reach me at tartzaaron@gmail.com.
 
 <!--
 **aarontartz/aarontartz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
