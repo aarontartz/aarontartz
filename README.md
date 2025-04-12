@@ -3,4 +3,4 @@
 - I'm pursuing an M.S. in **Communication Theory & Systems** at UCSD in Fall 2025.
 - I'm highly interested in exploring methods to bridge **machine learning** with **communication technology** to work toward intelligence-endogenous 6G networks (ML for network control, resource management, etc) and enable key advancements in applications such as IIoT, autonomous driving, and smart cities.
 - I currently work as an **undergraduate researcher** under the guidance of Dr. Baris Aksanli, funded by the Electrical and Computer Engineering Department at San Diego State University.
-- My research experience includes the topics of **adversarial machine learning** and **hyperdimensional computing** in the context of resource-limited devices.
+- My research experience includes the topics of **adversarial machine learning** and **hyperdimensional computing**.
